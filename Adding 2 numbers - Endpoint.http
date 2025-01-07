@@ -1,0 +1,6 @@
+@Adding_2_numbers___Endpoint_HostAddress = http://localhost:5149
+
+GET {{Adding_2_numbers___Endpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
